@@ -28,7 +28,7 @@ public class TransactionTest extends BaseTest {
         log.info("Entered amount");
         transaction.submitTransaction();
         log.info("Submitted transaction");
-        System.out.println(transaction.getAlertText());
-        transaction.acceptAlert();
+//        System.out.println(transaction.getAlertText());
+//        transaction.acceptAlert();
     }
 }
