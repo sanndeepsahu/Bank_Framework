@@ -1,0 +1,15 @@
+2026-04-12 00:08:48 INFO  testcases.AddAccountTest - Starting AddAccount test
+2026-04-12 00:08:49 INFO  testcases.AddAccountTest - Clicked on new ADD Account
+2026-04-12 00:08:50 INFO  testcases.AddAccountTest - Entered amount
+2026-04-12 00:08:51 INFO  testcases.TransactionTest - Starting deposit test
+2026-04-12 00:08:52 INFO  testcases.TransactionTest - Clicked on new transaction
+2026-04-12 00:08:53 INFO  testcases.TransactionTest - Selected transaction type
+2026-04-12 00:08:53 INFO  pageObjects.TransactionPage - Entering amount: 500.00
+2026-04-12 00:08:53 INFO  testcases.TransactionTest - Entered amount
+2026-04-12 00:08:53 INFO  testcases.TransactionTest - Submitted transaction
+2026-04-12 00:08:55 INFO  testcases.WithdrawalTest - Starting Withdrawal test
+2026-04-12 00:08:57 INFO  testcases.WithdrawalTest - Selected transaction type
+2026-04-12 00:08:57 INFO  testcases.WithdrawalTest - Selected Primary Account
+2026-04-12 00:08:57 INFO  pageObjects.TransactionPage - Entering amount: 1000.00
+2026-04-12 00:08:57 INFO  testcases.WithdrawalTest - Entered amount
+2026-04-12 00:08:57 INFO  testcases.WithdrawalTest - Withdrawal done
