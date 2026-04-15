@@ -12,6 +12,6 @@ public class BaseTest {
     @BeforeClass
     public void setup()
     {
-        RestAssured.baseURI = "https://jsonplaceholder.typicode.com";
+        System.out.println("Starting API Test...");
     }
 }
